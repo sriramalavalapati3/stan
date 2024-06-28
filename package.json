@@ -1,0 +1,25 @@
+{
+  "name": "stan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node process.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramalavalapati3/stan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramalavalapati3/stan/issues"
+  },
+  "homepage": "https://github.com/sriramalavalapati3/stan#readme",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "redis": "^4.6.14"
+  }
+}
